@@ -14,6 +14,7 @@
       </div>
       <canvas id="canvas" width="640" height="480" style="background-color:#333333;" ></canvas>
    </body>
+   <?php ?>
    <script type="text/javascript" src="Box2dWeb-2.1.a.3.min.js"></script>
    <script type="text/javascript">
       
